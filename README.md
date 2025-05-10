@@ -4,7 +4,7 @@ Hey there! I'm **Kiana Lotfi**, a CS student and frontend developer 🎨
 I build modern web apps  
 Let’s connect & code cool things together!
 
-- 🔭 Working on: [Avada Programmer Project]([https://keyelty-dev.github.io/avada-programmer-project/](https://keyelty-dev.github.io/avada-programmer/)                
+- 🔭 Working on: [Avada Programmer Project](https://keyelty-dev.github.io/avada-programmer/)                
 - 💡 Learning: Tailwind, advanced JS, UI motion
 - 🌍 Dreaming of: working globally in tech & design
   
