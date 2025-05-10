@@ -22,7 +22,8 @@ Let’s connect & code cool things together!
 [![GitHub](https://img.shields.io/badge/GitHub-keyelty--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keyelty-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-kianalotfi__developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kianalotfi.developer?igsh=ZWN5MmZ3bHVmbHVu)
 
-![...](https://github.com/keyelty-dev/avada-programmer-project/blob/main/website%20pro/assets/image/screenshotone.png?raw=true)
-![...](https://github.com/keyelty-dev/avada-programmer-project/blob/main/website%20pro/assets/image/screenshottwo.png?raw=true)
-![...](https://github.com/keyelty-dev/avada-programmer-project/blob/main/website%20pro/assets/image/screenshotthree.png?raw=true)
-![...](https://github.com/keyelty-dev/avada-programmer-project/blob/main/website%20pro/assets/image/screenshot%20four.png?raw=true)
+![...](https://github.com/keyelty-dev/avada-programmer/blob/main/assets/image/screenshotone.png?raw=true)
+![...](https://github.com/keyelty-dev/avada-programmer/blob/main/assets/image/screenshottwo.png?raw=true)
+![...](https://github.com/keyelty-dev/avada-programmer/blob/main/assets/image/screenshotthree.png?raw=true)
+![...](https://github.com/keyelty-dev/avada-programmer/blob/main/assets/image/screenshot%20four.png?raw=true)
+
