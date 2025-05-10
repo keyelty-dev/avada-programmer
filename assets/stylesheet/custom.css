@@ -1,0 +1,9 @@
+:root{
+    --backcolor:#0e0f11;
+}
+.txt{
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    list-style: none;
+}
