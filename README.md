@@ -14,7 +14,7 @@ Let’s connect & code cool things together!
 
 ### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-kianalotfi.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianalotfi.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kianalotfi.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianalotfiiiiiii@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+989123456789-teal?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989123456789)
 
 ### 🌐 Socials
